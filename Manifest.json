@@ -3,7 +3,7 @@
     "name": "OSCAR OMSCS Filter",
     "description": "Filter to show OMSCS courses only on oscar",
     "version": "1.0",
-    "author": "karthikarun@gatech.edu",
+    "author": "karthikarun",
     "content_scripts": [
         {
           "matches": [

@@ -1,6 +1,6 @@
 # OSCAR - Filter
 Chrome extension to filter for GATech registration *look up classes* page.
-Developer - [Karthik Arun](mailto:karthikarun@gatech.edu "Gatech Email") 
+Developer - [Karthik Arun]("https://github.com/karthikkumararun/OSCARFilter" "Repo link") 
 
 ---
 ### How to load chrome extension?
