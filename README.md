@@ -4,11 +4,11 @@ Developer - [Karthik Arun]("https://github.com/karthikkumararun/OSCARFilter" "Re
 
 ---
 ### How to load chrome extension?
-* Clone this repository to a folder on your PC or MAC.
-* Open google chrome or use your existing session.
+* Clone this repository to a :file_folder: on your PC or MAC.
+* Open google chrome or use your existing browser session.
 * Navigate to [chrome://extensions/]("chrome://extensions/" "Will navigate to chrome extension"). 
 * Ensure that the "Developer mode" checkbox in the top right-hand corner is checked. 
-* Click on *load unpacked* and select this directory. You can now look at OMSCS courses only in oscar's *look up classes* page.
+* Click on *load unpacked* and select this :file_folder:. You can now look at OMSCS courses only in oscar's *look up classes* page.
 
 ---
 
